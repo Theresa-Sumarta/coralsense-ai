@@ -22,6 +22,28 @@ CoralSense combines predictive modeling and intuitive visualization to:
 - **Interactive Visualization**: Global map for exploring predictions and trends
 - **Actionable Insights**: Helps prioritize conservation actions effectively
 
+## Datasets Used
+
+CoralSense utilizes a variety of datasets to predict coral reef health under different environmental scenarios:
+
+- **Bleaching and Environmental Data for Global Coral Reef Sites (1980-2020)** (Biological and Chemical Oceanography Data Management Office): Contains global environmental factors affecting coral health, including sea surface temperature, water quality, sunlight exposure, and hard coral cover percentage.
+
+- **MODIS Aqua Level-3 Remote Sensing Reflectance Dataset** (NASA Earthdata): Measures reflectance in multiple spectral bands, providing insights into water quality and ecosystem health.
+
+- **50 Reefs Global Coral Ocean Warming, Connectivity, and Cyclone Dataset** (University of Queensland): Focuses on reef connectivity and coral larvae dispersal, helping understand coral resilience.
+
+- **Human Development Index (HDI)** (UNDP): Provides data on the relationship between human development and reef health.
+
+- **World Database on Protected Areas** (Protected Planet): Assesses the health of reefs within marine protected areas.
+
+- **Reefs at Risk Revisited** (World Resources Institute): Evaluates threats like overfishing and pollution to coral reefs.
+
+- **Global Distribution of Coral Reefs** (UN World Conservation Monitoring Center): Maps tropical and subtropical coral reefs worldwide.
+
+- **CMIP5 Climate Projections Dataset** (Copernicus Climate Data Store): Offers climate scenario data to forecast the impact of global warming on reefs.
+
+These datasets enable CoralSense to predict coral reef health and provide actionable insights for conservation.
+
 ## Models Used
 
 ### Classification
