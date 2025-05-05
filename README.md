@@ -5,16 +5,16 @@
 ## Project Components
 
 - **Exploratory Data Analysis (EDA):**  
-  [📓 View EDA Notebook](notebooks/eda.ipynb)
+  [View EDA Notebook](notebooks/eda.ipynb)
 
 - **Random Forest Modeling:**  
-  [🌲 View Classification Model](models/random_forest_modeling.ipynb)
+  [View Classification Model](models/random_forest_modeling.ipynb)
 
 - **Time Series Prediction:**  
-  [📈 View Time Series Forecasting](models/time_series_forecasting.ipynb)
+  [View Time Series Forecasting](models/time_series_forecasting.ipynb)
 
 - **Presentation Slide Deck:**  
-  [📑 View Final Slide Deck (PDF)](presentation/CoralSense_Final_Presentation.pdf)
+  [View Final Slide Deck (PDF)](presentation/CoralSense_Final_Presentation.pdf)
 
 ## Problem
 
