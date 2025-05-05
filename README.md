@@ -2,6 +2,20 @@
 
 **CoralSense** is a machine learning-powered platform designed to forecast coral reef health under various environmental scenarios. By integrating predictive analytics with an interactive global map, it empowers stakeholders—including conservationists, policymakers, and local communities—to make informed, data-driven decisions to protect one of the planet’s most vital ecosystems.
 
+## Project Components
+
+- **Exploratory Data Analysis (EDA):**  
+  [📓 View EDA Notebook](notebooks/eda.ipynb)
+
+- **Random Forest Modeling:**  
+  [🌲 View Classification Model](models/random_forest_modeling.ipynb)
+
+- **Time Series Prediction:**  
+  [📈 View Time Series Forecasting](models/time_series_forecasting.ipynb)
+
+- **Presentation Slide Deck:**  
+  [📑 View Final Slide Deck (PDF)](presentation/CoralSense_Final_Presentation.pdf)
+
 ## Problem
 
 Coral reefs are facing an existential threat due to climate change, overfishing, pollution, and coastal development. These ecosystems support 25% of marine life and protect over 45,000 miles of coastline, yet up to 90% could vanish by 2050 without intervention.
