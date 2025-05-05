@@ -16,6 +16,10 @@
 - **Presentation Slide Deck:**  
   [View Final Slide Deck (PDF)](CoralSense_Final_Presentation.pdf)
 
+## Live Demo
+
+[Click here to view the live CoralSense demo](https://lnkd.in/gW2-mBud)
+
 ## Problem
 
 Coral reefs are facing an existential threat due to climate change, overfishing, pollution, and coastal development. These ecosystems support 25% of marine life and protect over 45,000 miles of coastline, yet up to 90% could vanish by 2050 without intervention.
@@ -110,10 +114,6 @@ CoralSense includes a dynamic, interactive map that:
 - **React** (frontend)
 - **Node.js** (backend integration)
 - **Vercel** (hosting the website)
-
-## Live Demo
-
-[Click here to view the live CoralSense demo](https://lnkd.in/gW2-mBud)
 
 ## Acknowledgments
 
